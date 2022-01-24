@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Aplicacion creada para mi entrevista de trabajo
+
+La realicé con React y JavaScript, maquetado con Boostrap
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
